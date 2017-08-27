@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="webmagic-0">
+    <CLASSES>
+      <root url="jar:///media/likole/a608c48e-37e2-4f28-b3a4-d9ad5956b8a8/lib/mysql-connector-java-5.1.25-bin.jar!/" />
+      <root url="jar:///media/likole/a608c48e-37e2-4f28-b3a4-d9ad5956b8a8/lib/okhttp-3.6.0.jar!/" />
+      <root url="jar:///media/likole/a608c48e-37e2-4f28-b3a4-d9ad5956b8a8/lib/okio-1.11.0.jar!/" />
+      <root url="file:///media/likole/a608c48e-37e2-4f28-b3a4-d9ad5956b8a8/lib/webmagic-0.60" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file:///media/likole/a608c48e-37e2-4f28-b3a4-d9ad5956b8a8/lib/webmagic-0.60" recursive="false" />
+  </library>
+</component>
